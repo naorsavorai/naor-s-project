@@ -1,0 +1,5 @@
+project notes:
+1) selected programming langauge is python with flask 
+2) use "Gmail API Client Library for Python | API Client Library for Python | Google Developers" for
+parsing emails
+3) maybe use machine learning (if not use simple text parsing) 
